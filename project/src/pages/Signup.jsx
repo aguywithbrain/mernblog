@@ -1,7 +1,12 @@
 import React from 'react'
+import { signup } from './../../../api/controllers/auth.controllers';
 
 export default function Signup() {
   return (
-    <div>Signup</div>
+    <div>
+      <h1>
+        signup
+      </h1>
+    </div>
   )
 }
