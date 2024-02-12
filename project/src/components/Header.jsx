@@ -17,7 +17,7 @@ export default function Header() {
         </span>
         Blog
       </Link>
-      <form action="">
+      <form>
         <TextInput
           type="text"
           placeholder="Search..."
